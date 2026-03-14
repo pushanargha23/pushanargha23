@@ -76,9 +76,9 @@ A platform to help students manage **attendance, lectures, and time management**
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/argha-kamal-saha-1a1318305/)
 
-[![GitHub](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github)](https://github.com/YOUR_USERNAME)
+[![GitHub](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github)](https://github.com/pushanargha23)
 
 ---
 
